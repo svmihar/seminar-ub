@@ -8,3 +8,7 @@
     - [ ] prefix span (menggunakan data belana)
 - def plot_universal() buat visualisasi 
 - penjelasan   
+- bikin boiler plate yang baik dan benar 
+  - formatting
+  - bahan 
+  - penjelasan 
