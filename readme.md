@@ -16,3 +16,37 @@
 
 ### sumber
 [UCI Heart Disease](https://www.kaggle.com/ronitf/heart-disease-uci)
+
+```python
+Performing model optimizations...
+
+Estimator: Logistic Regression
+Best params: {'clf__C': 0.1, 'clf__penalty': 'l2', 'clf__solver': 'liblinear'}
+Best training accuracy: 0.826
+Test set accuracy score for best params: 0.836
+
+Estimator: Logistic Regression w/PCA
+Best params: {'clf__C': 1.0, 'clf__penalty': 'l1', 'clf__solver': 'liblinear'}
+Best training accuracy: 0.822
+Test set accuracy score for best params: 0.820
+
+Estimator: Random Forest
+Best params: {'clf__criterion': 'gini', 'clf__max_depth': 3, 'clf__min_samples_leaf': 8, 'clf__min_samples_split': 2}
+Best training accuracy: 0.843
+Test set accuracy score for best params: 0.869
+
+Estimator: Random Forest w/PCA
+Best params: {'clf__criterion': 'entropy', 'clf__max_depth': 6, 'clf__min_samples_leaf': 10, 'clf__min_samples_split': 2}
+Best training accuracy: 0.818
+Test set accuracy score for best params: 0.869
+
+Estimator: Support Vector Machine
+Best params: {'clf__C': 2, 'clf__kernel': 'rbf'}
+Best training accuracy: 0.814
+Test set accuracy score for best params: 0.885
+
+Estimator: Support Vector Machine w/PCA
+Best params: {'clf__C': 1, 'clf__kernel': 'linear'}
+Best training accuracy: 0.818
+Test set accuracy score for best params: 0.820
+```
