@@ -3,7 +3,7 @@
 Repo ini dibuat untuk memenuhi kebutuhan peserta untuk belajar dan mengerti beberapa algoritma machine learning yang digunakan dalam metode data mining. 
 
 #### -- Project Status: [~in progress]
-
+![](img/process.png)
 ### Contributor
 * [Imam Mukhlash, S.Si, MT.](https://www.researchgate.net/profile/Imam_Mukhlash)
 * [Sumihar Christian](github.com/svmihar)
