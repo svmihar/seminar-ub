@@ -2,9 +2,9 @@
 # Seminar Data Mining Matematika UB
 Repo ini dibuat untuk memenuhi kebutuhan peserta untuk belajar dan mengerti beberapa algoritma machine learning yang digunakan dalam metode data mining. 
 
-#### -- Project Status: [Completed]
+#### -- Project Status: [~in progress]
 
-### Partner
+### Contributor
 * [Imam Mukhlash, S.Si, MT.](https://www.researchgate.net/profile/Imam_Mukhlash)
 * [Sumihar Christian](github.com/svmihar)
 
@@ -19,7 +19,7 @@ Repo ini dibuat untuk memenuhi kebutuhan peserta untuk belajar dan mengerti bebe
   * K-Means
     * Cek Konvergensi
   * Gaussian Mixture
-* Data Visualization
+* Data Visualization Methods using Matplotlib
 
 ### Technologies
 * Python 
