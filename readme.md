@@ -20,7 +20,7 @@
 ## pairplot
 ### iris
 ![](img/pairplot_iris.png)
-
+![](img/heatmap_iris.png)
 ### heart disease
 ![](img/pairplot_heartdisease.png)
 ![](img/correlation_heartdisease.png)
