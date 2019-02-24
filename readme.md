@@ -16,3 +16,11 @@
 
 ### sumber
 [UCI Heart Disease](https://www.kaggle.com/ronitf/heart-disease-uci)
+
+## pairplot
+### iris
+![](img/pairplot_iris.png)
+
+### heart disease
+![](img/pairplot_heartdisease.png)
+![](img/correlation_heartdisease.png)
