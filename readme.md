@@ -4,8 +4,16 @@ Repo ini dibuat untuk memenuhi kebutuhan peserta untuk belajar dan mengerti bebe
 
 #### -- Project Status: [~in progress]
 ![](img/process.png)
+#### TO DO 
+- [ ] make pipeline for latihan_sendiri 
+- [ ] answer sheet for latihan_Sendiri
+- [ ] slides 
+  - [ ] algorithm pseudocode 
+  - [ ] visualization  
+
+
 ### Contributor
-* [Imam Mukhlash, S.Si, MT.](https://www.researchgate.net/profile/Imam_Mukhlash)
+* [Dr. Imam Mukhlash, S.Si, MT.](https://www.researchgate.net/profile/Imam_Mukhlash)
 * [Sumihar Christian](github.com/svmihar)
 
 ### Methods Used
