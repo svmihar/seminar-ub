@@ -6,9 +6,16 @@ Repo ini dibuat untuk memenuhi kebutuhan peserta untuk belajar dan mengerti bebe
 #### TO DO 
 - [ ] make pipeline for latihan_sendiri 
 - [ ] answer sheet for latihan_Sendiri
-- [ ] slides 
-  - [ ] algorithm pseudocode 
-  - [ ] visualization  
+- [x] slides 
+  - [x] algorithm pseudocode 
+  - [x] visualization 
+- [ ] kasih capture dari source kmeans, svm, dan hierarchical clustering 
+- [ ] source code dari sklearn buat ke slidenya pak muklash 
+  - [ ] svm
+  - [ ] hierarchical 
+  - [ ] k-means
+  - [ ] gmm 
+- [ ] buat animasi iterasi dari kmeans  
 
 
 ### Contributor
