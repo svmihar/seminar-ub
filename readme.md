@@ -10,13 +10,13 @@ Repo ini dibuat untuk memenuhi kebutuhan peserta untuk belajar dan mengerti bebe
 - [x] slides 
   - [x] algorithm pseudocode 
   - [x] visualization 
-- [ ] kasih capture dari source kmeans, svm, dan hierarchical clustering 
-- [ ] source code dari sklearn buat ke slidenya pak muklash 
-  - [ ] svm
-  - [ ] hierarchical 
-  - [ ] k-means
-  - [ ] gmm 
-- [ ] buat animasi iterasi dari kmeans  
+- [x] kasih capture dari source kmeans, svm, dan hierarchical clustering 
+- [x] source code dari sklearn buat ke slidenya pak muklash 
+  - [x] svm
+  - [x] hierarchical 
+  - [x] k-means
+  - [x] gmm 
+- [x] buat animasi iterasi dari kmeans  
 
 
 ### Contributor
