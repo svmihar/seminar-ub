@@ -3,6 +3,7 @@
 Repo ini dibuat untuk memenuhi kebutuhan peserta untuk belajar dan mengerti beberapa algoritma machine learning yang digunakan dalam metode data mining. 
 
 #### -- Project Status: [~in progress]
+![](img/process.png)
 #### TO DO 
 - [ ] make pipeline for latihan_sendiri 
 - [ ] answer sheet for latihan_Sendiri
