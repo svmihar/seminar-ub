@@ -61,17 +61,22 @@ Repo ini dibuat untuk memenuhi kebutuhan peserta untuk belajar dan mengerti bebe
 4. then install dependencies
    1. `pip install matplotlib sklearn seaborn`
 
-5. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-6. Raw Data is being kept [here](https://github.com/svmihar/seminar-ub/blob/master/xclara.csv) within this repo.
+### UNIX user? 
+<small>hey i like you already.</small>    
+macOS: 
+1. install brew
+2. brews install python 
+3. install dependencies
+   1. `pip install matplotlib sklearn seaborn`
 
-    *If using offline data mention that and how they may obtain the data from the froup)*
-    
-7. Data processing/transformation scripts are being kept [here](https://github.com/svmihar/seminar-ub/blob/master/Seminar%20Data%20Mining%20Matematika%20UB.ipynb)
-8. etc...
 
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
+### profit: 
+1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2. Raw Data is being kept [here](https://github.com/svmihar/seminar-ub/blob/master/xclara.csv) within this repo.    
+3. Data processing/transformation scripts are being kept [here](https://github.com/svmihar/seminar-ub/blob/master/Seminar%20Data%20Mining%20Matematika%20UB.ipynb)
+4. etc...
 
-5. Follow setup [instructsions](Link to file)
+
 
 ## Referensi
 * [Hands on Machine learning and Tensorflow](http://download.library1.org/main/1637000/1f5f9ed30df4b2547fb85c8c2349840b/Aur%C3%A9lien%20G%C3%A9ron%20-%20Hands-On%20Machine%20Learning%20with%20Scikit-Learn%20and%20TensorFlow_%20Concepts%2C%20Tools%2C%20and%20Techniques%20to%20Build%20Intelligent%20Systems-O%E2%80%99Reilly%20Media%20%282017%29.epub)
