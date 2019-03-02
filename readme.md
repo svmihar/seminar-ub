@@ -23,7 +23,7 @@ Repo ini dibuat untuk memenuhi kebutuhan peserta untuk belajar dan mengerti bebe
 
 ### Contributor
 * [Dr. Imam Mukhlash, S.Si, MT.](https://www.researchgate.net/profile/Imam_Mukhlash)
-* [Sumihar Christian](github.com/svmihar)
+* [Sumihar Christian](https://blogsvmihar.ga)
 
 ### Methods Used
 * Klasifikasi
