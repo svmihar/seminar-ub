@@ -20,7 +20,7 @@ X=data.values
 # ------------------------------------
 # scikit method
 # ------------------------------------
-print(X[0][0])
+""" print(X[0][0])
 kmeans = KMeans(init='random',n_clusters=4)
 kmeans.fit(X)
 labels = kmeans.predict(X)
@@ -62,16 +62,6 @@ def make_meshgrid(x,y,h=.02):
     return xx, yy
 
 def plot_contours(ax, clf, xx, yy, **params):
-    """Plot the decision boundaries for a classifier.
-
-    Parameters
-    ----------
-    ax: matplotlib axes object
-    clf: a classifier
-    xx: meshgrid ndarray
-    yy: meshgrid ndarray
-    params: dictionary of params to pass to contourf, optional
-    """
     Z = clf.predict(np.c_[xx.ravel(), yy.ravel()])
     Z = Z.reshape(xx.shape)
     out = ax.contourf(xx, yy, Z, **params)
@@ -92,7 +82,7 @@ for classifier, title, ax in zip(models, judul, sub.flatten()):
     ax.set_yticks(())
     ax.set_title(title)
 
-plt.show()
+plt.show() """
 
 # colors = ("red", "green", "blue",'orange')
 # for i in range(1,41): 
@@ -141,7 +131,7 @@ from sklearn.cluster import AgglomerativeClustering
 # MANUAL
 # ------------------------------------
 
-""" f1 = data['V1'].values
+f1 = data['V1'].values
 f2 = data['V2'].values
 X = np.array(list(zip(f1, f2)))
 plt.scatter(f1, f2, c='black', s=7)
@@ -153,7 +143,7 @@ def dist(a, b, ax=1):
     return np.linalg.norm(a - b, axis=ax)
 
 # berapa centroid
-k = 3
+k = 4
 # koordinat x centroid random
 C_x = np.random.randint(0, np.max(X), size=k)
 # koordinat y centroid random
@@ -200,5 +190,3 @@ for i in range(k):
         ax.scatter(points[:, 0], points[:, 1], s=7, c=colors[i])
 ax.scatter(C[:, 0], C[:, 1], marker='*', s=200, c='#050505')
 plt.show()
- """
-
