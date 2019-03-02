@@ -62,12 +62,16 @@ Repo ini dibuat untuk memenuhi kebutuhan peserta untuk belajar dan mengerti bebe
    1. `pip install matplotlib sklearn seaborn`
 
 ### UNIX user? 
-<small>hey i like you already.</small>    
-macOS: 
+~~hey i like you already~~   
+macOS:     
 1. install brew
 2. brews install python 
 3. install dependencies
    1. `pip install matplotlib sklearn seaborn`
+
+
+Ubuntu/Debian based distro: 
+1. we should hangout later
 
 
 ### profit: 
