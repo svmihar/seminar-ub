@@ -1,5 +1,7 @@
 
 # Seminar Data Mining Matematika UB
+
+**check here for [latihan_sendiri](https://github.com/svmihar/seminar-ub/tree/latihan_sendiri)**   
 Repo ini dibuat untuk memenuhi kebutuhan peserta untuk belajar dan mengerti beberapa algoritma machine learning yang digunakan dalam metode data mining. 
 
 #### -- Project Status: [~in progress]
