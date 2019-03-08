@@ -4,22 +4,8 @@
 **check here for [latihan_sendiri](https://github.com/svmihar/seminar-ub/tree/latihan_sendiri)**   
 Repo ini dibuat untuk memenuhi kebutuhan peserta untuk belajar dan mengerti beberapa algoritma machine learning yang digunakan dalam metode data mining. 
 
-#### -- Project Status: [~in progress]
+#### -- Project Status: [COMPLETED]
 ![](img/process.png)
-#### TO DO 
-- [ ] make pipeline for latihan_sendiri 
-- [ ] answer sheet for latihan_Sendiri
-- [x] slides 
-  - [x] algorithm pseudocode 
-  - [x] visualization 
-- [x] kasih capture dari source kmeans, svm, dan hierarchical clustering 
-- [x] source code dari sklearn buat ke slidenya pak muklash 
-  - [x] svm
-  - [x] hierarchical 
-  - [x] k-means
-  - [x] gmm 
-- [x] buat animasi iterasi dari kmeans  
-
 
 ### Contributor
 * [Dr. Imam Mukhlash, S.Si, MT.](https://www.researchgate.net/profile/Imam_Mukhlash)
